@@ -1,4 +1,3 @@
-// src/App.jsx
 import { useEffect, useState, useRef } from "react";
 import { db } from "./firebase";
 import {
@@ -61,7 +60,7 @@ function App() {
 
     const timestamp = Date.now();
 
-    // Special Easter eggs that suppress user message
+    // Hidden texts/Easter eggs kinda
     if (trimmed === "hi") {
       setMessages((prev) => [
         ...prev,
@@ -113,7 +112,7 @@ function App() {
       return;
     }
 
-    // Normal message — send to Firestore
+    
     await addDoc(collection(db, "messages"), {
       name,
       text: newMsg,
@@ -136,10 +135,10 @@ function App() {
       await batch.commit();
       console.log("Everything has been wiped from the timeline.");
     } catch (err) {
-      console.error("💥 Message deletion failed:", err);
+      console.error(" Message deletion failed:", err);
     }
   
-    // ✅ Nuke local-only messages too
+    
     setMessages([]);
   };
   
