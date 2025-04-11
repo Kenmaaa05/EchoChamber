@@ -45,6 +45,7 @@ These are local-only — no one else sees them but you.
 - More easter eggs (never stop never stopping)
 - Typing indicators — if the mood strikes
 - Smooth transitions, sound effects and more synth-vibe (for that extra flair)
+- Media upload if possible (GIFs and stickers carry the conversation!)
 
 ## 🚀 Getting Started
 
