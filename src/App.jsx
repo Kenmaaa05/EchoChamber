@@ -102,8 +102,8 @@ function App() {
           id: "local-emo-" + timestamp,
           name: enteringVoid ? "Vecna" : "Spidey",
           text: enteringVoid
-            ? "Welcome to the void."
-            : "Back to the vibes.",
+            ? "There's no escape from the Upside Down."
+            : "Back to the vibes 🌃",
           localOnly: true,
           timestamp,
         },
