@@ -9,7 +9,7 @@ Styled with a synthwave-inspired theme just to keep things interesting. 🌃 ✨
 
 ---
 
-## ⚙️ Core Features
+## Core Features
 
 - Real-time group messaging using Firebase
 - Messages update instantly across all connected users
@@ -19,7 +19,7 @@ Styled with a synthwave-inspired theme just to keep things interesting. 🌃 ✨
     
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **React** – frontend library
 - **Vite** – fast dev/build tool
@@ -29,7 +29,7 @@ Styled with a synthwave-inspired theme just to keep things interesting. 🌃 ✨
 
 ---
 
-👀 Easter Eggs
+ Easter Eggs
 | Command	| Response |
 |---------|----------|
 | hi	    | Surprise gift! |
@@ -38,7 +38,7 @@ Styled with a synthwave-inspired theme just to keep things interesting. 🌃 ✨
 
 These are local-only — no one else sees them but you.
 
-## 🧪 Might Add Later
+## Might Add Later
 
 - Sign-in with usernames or Google (something minimal, nothing wild) or Profiles maybe… maybe not.
 - Public and private chat rooms
@@ -47,7 +47,7 @@ These are local-only — no one else sees them but you.
 - Smooth transitions, sound effects and more synth-vibe (for that extra flair)
 - Media upload if possible (GIFs and stickers carry the conversation!)
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/Kenmaaa05/EchoChamber.git
